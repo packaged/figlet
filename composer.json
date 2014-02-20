@@ -1,0 +1,19 @@
+{
+  "name":        "packaged/figlet",
+  "description": "Figlet Text Render",
+  "keywords":    ["figlet", "font"],
+  "homepage":    "http://packaged.in/figlet",
+  "license":     "BSD-3-Clause",
+  "authors":     [
+    {
+      "name":     "Brooke Bryan",
+      "email":    "brooke@bajb.net",
+      "homepage": "http://www.bajb.net"
+    }
+  ],
+  "autoload":    {
+    "psr-4": {
+      "Packaged\\Figlet\\": "src/"
+    }
+  }
+}

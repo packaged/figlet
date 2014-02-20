@@ -1,4 +1,4 @@
-figlet
+Figlet
 ======
 
-Figlet in PHP
+PHP Figlet Render
